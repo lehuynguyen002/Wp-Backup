@@ -26,7 +26,7 @@ define( 'DB_NAME', 'wordpress_db' );
 define( 'DB_USER', 'wp_user' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Ntq@2026' );
+define( 'DB_PASSWORD', 'db_passwd' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
